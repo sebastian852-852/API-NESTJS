@@ -34,5 +34,5 @@ export class CrudUsuario {
     gender: string;
 
     @Column()
-    photo: string;
+    avatar: string;
 }
